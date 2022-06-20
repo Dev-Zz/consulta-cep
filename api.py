@@ -1,5 +1,4 @@
 from flask import Flask
-from extensions import db
 from flask import request
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
